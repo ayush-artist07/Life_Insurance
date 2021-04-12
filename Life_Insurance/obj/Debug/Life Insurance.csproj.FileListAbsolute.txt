@@ -1,0 +1,6 @@
+C:\C#\practical\Life Insurance\Life Insurance\bin\Debug\Life Insurance.exe.config
+C:\C#\practical\Life Insurance\Life Insurance\bin\Debug\Life Insurance.exe
+C:\C#\practical\Life Insurance\Life Insurance\bin\Debug\Life Insurance.pdb
+C:\C#\practical\Life Insurance\Life Insurance\obj\Debug\Life Insurance.csprojResolveAssemblyReference.cache
+C:\C#\practical\Life Insurance\Life Insurance\obj\Debug\Life Insurance.exe
+C:\C#\practical\Life Insurance\Life Insurance\obj\Debug\Life Insurance.pdb
